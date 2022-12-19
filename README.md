@@ -4,7 +4,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
         src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -13,7 +12,6 @@
         height="40"
         />
     </a>
-
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -161,7 +159,5 @@
         height="40"
         />
     </a>
-
 </p>
-
 <!-- <a href="https://app.daily.dev/karimnafady"><img src="https://api.daily.dev/devcards/61a039c759e247d9957c3ddfacf80c23.png?r=vw0" width="400" alt="Karim Alaa Hamed Nafady's Dev Card"/></a> -->
