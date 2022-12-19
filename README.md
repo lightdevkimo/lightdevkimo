@@ -117,7 +117,7 @@
         width="40"
         height="40"
         />
-    </a></br>
+    </a></br></br>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
