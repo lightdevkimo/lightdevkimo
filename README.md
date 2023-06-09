@@ -3,7 +3,7 @@
 - 🌱 I’m currently Full Stack WEB DEVELOPER
 
 ![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightdevkimo&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightdevkimo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightdevkimo&layout=compact)
 
 <!--
 <div align="right">
