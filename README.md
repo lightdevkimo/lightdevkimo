@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently Full Stack WEB DEVELOPER
 
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightdevkimo&show_icons=true&theme=transparent)
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightdevkimo&show_icons=true&theme=default)
 
 <!--
 <div align="right">
