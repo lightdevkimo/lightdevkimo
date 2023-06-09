@@ -4,7 +4,6 @@
 
 ![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightdevkimo&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightdevkimo&layout=compact)
-[![Karim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lightdevkimo)]
 
 <!--
 <div align="right">
