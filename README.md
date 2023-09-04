@@ -1,6 +1,3 @@
-[![MasterHead]([https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdxcl3qp81ymqwx7s33b84ugja0zbjki9qsyj2l4&ep=v1_gifs_search&rid=giphy.gif&ct=g))]([https://github.com/lightdevkimo](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdxcl3qp81ymqwx7s33b84ugja0zbjki9qsyj2l4&ep=v1_gifs_search&rid=giphy.gif&ct=g))
-
-
 - 👋 Hi, I’m Karim Alaa
 - 👀 I’m interested in Coding
 - 🌱 I’m currently Full Stack WEB DEVELOPER
