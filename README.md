@@ -59,9 +59,9 @@
 ---
 
 ### 🔗 Let's Connect
-- 📫 [Email](mailto:karimalaa.webdev@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/karimalaa)
+- 📫 [Email](mailto:karimalaahamed@outlook.com)
+- 🌐 [Portfolio](https://devtech.click)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karim-alaa-218495181/)
 
 ---
 
